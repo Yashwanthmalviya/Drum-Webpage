@@ -20,6 +20,7 @@ html{
     justify-content: center;
     text-align: center;
     text-shadow: 4px 5px 0.2rem red;
+    transition: transform 0.07s ease;
 }
 .keys{
     display: flex;
